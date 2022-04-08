@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FIanTorquato%2Fnlw_3-happy-rocketseat&psig=AOvVaw1TTs3BKg1dxYedp61u7Bdl&ust=1649469558016000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNCp_Iqvg_cCFQAAAAAdAAAAABAD" width="100%">
 </p>
 
 ## 🚀 Tecnologias
