@@ -35,6 +35,8 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 
 ## 🔖 Layout
 
+https://github.com/henrique-arruda/happy/issues/1#issue-1199995172
+
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
 
